@@ -155,5 +155,5 @@ fetch("https://italento.shop/usuario/1")
 
 ## Recursos Adicionales
 
-- [Login y Registro](/inicio-rapido/login)
+- [Login y Registro](https://docs.italento.shop/inicio-rapido/login)
 - [Auth0](https://auth0.com/docs)
