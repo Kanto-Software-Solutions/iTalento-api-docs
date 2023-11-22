@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Documentación API',
   tagline: 'API Docs',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.ico',
 
   // Set the production url of your site here
   url: 'https://api.italento.shop',
@@ -61,7 +61,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Api Docs',
+        title: 'API Docs',
         logo: {
           alt: 'iTalento Logo',
           src: 'img/logo.svg',
@@ -73,32 +73,28 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
+            title: 'Comunidad',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/italento_/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/italento_',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Más',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'GitHub',
+                href: 'https://github.com/Kanto-Software-Solutions/iTalento',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/channel/UCvjCcnsGpzyOhQtm9FLoNJg',
               },
             ],
           },
