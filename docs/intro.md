@@ -4,46 +4,28 @@ sidebar_label: 'Bienvenido'
 sidebar_position: 0
 ---
 
-# Tutorial Intro
+# Bienvenido a la API de iTalento
 
-Let's discover **Docusaurus in less than 5 minutes**.
+La API de Fiverr es una herramienta poderosa que te permite integrar tus aplicaciones y servicios con Fiverr. Con la API, puedes realizar tareas como:
 
-## Getting Started
+* **Buscar y listar servicios**
+* **Realizar pedidos**
+* **Gestionar tus pedidos**
+* **Obtener información sobre vendedores y compradores**
 
-Get started by **creating a new site**.
+La API de Fiverr está disponible en dos versiones:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+* **API REST:** Esta versión de la API utiliza una interfaz de programación de aplicaciones RESTful. Es la versión más popular de la API y es compatible con la mayoría de los lenguajes de programación.
 
-### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Documentación
 
-## Generate a new site
+La documentación de la API de iTalento está disponible en el sitio web de iTalento. La documentación incluye información sobre cómo usar la API, así como ejemplos de código. Comienza [aquí](api/comenzando/getting-started).
 
-Generate a new Docusaurus site using the **classic template**.
+## Ejemplos
 
-The classic template will automatically be added to your project after you run the command:
+El sitio web de iTalento también incluye una serie de ejemplos de código que te ayudarán a empezar a usar la API. Los ejemplos están disponibles en Postman y en código usando JavaScript, proximamente incluiremos mas lenguajes de programación.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Comunidad
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+La comunidad de desarrolladores de iTalento es un recurso valioso para los desarrolladores que usan la API. La comunidad ofrece una serie de recursos, como un canal de [Youtube](https://www.youtube.com/channel/UCvjCcnsGpzyOhQtm9FLoNJg), un [blog](https://blog.italento.shop) y tutoriales.
