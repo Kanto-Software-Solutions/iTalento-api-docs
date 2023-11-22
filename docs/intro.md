@@ -6,14 +6,14 @@ sidebar_position: 0
 
 # Bienvenido a la API de iTalento
 
-La API de Fiverr es una herramienta poderosa que te permite integrar tus aplicaciones y servicios con Fiverr. Con la API, puedes realizar tareas como:
+La API de iTalento es una herramienta poderosa que te permite integrar tus aplicaciones y servicios con iTalento. Con la API, puedes realizar tareas como:
 
 * **Buscar y listar servicios**
 * **Realizar pedidos**
 * **Gestionar tus pedidos**
 * **Obtener información sobre vendedores y compradores**
 
-La API de Fiverr está disponible en dos versiones:
+La API de iTalento está disponible en dos versiones:
 
 * **API REST:** Esta versión de la API utiliza una interfaz de programación de aplicaciones RESTful. Es la versión más popular de la API y es compatible con la mayoría de los lenguajes de programación.
 
