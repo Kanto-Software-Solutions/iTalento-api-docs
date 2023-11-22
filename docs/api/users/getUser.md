@@ -11,7 +11,7 @@ sidebar_position: 1
 
 En iTalento, el usuario contiene la mayoria de la información necesaria para el funcionamiento correcto de la aplicación, la mayoría de objetos hacen referencia a este e iteran sobre el. Los usuarios se crean gracias al login de auth0 que almacena y procesa la información confidencial e importante como contraseñas. iTalento NO almacena contraseñas, esto nos permite estar a salvo de filtraciones.
 
-Por consiguiente a usuarios solo se pueden realizar solicitudes HTTP GET para su propio usuario, para más información visita [Login](/inicio-rapido/login).
+Por consiguiente a usuarios solo se pueden realizar solicitudes HTTP GET para su propio usuario, para más información visita [Login](https://docs.italento.shop/inicio-rapido/login).
 
 ## GET /usuario/:id
 
